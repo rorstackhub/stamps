@@ -1,0 +1,13 @@
+coverage/*
+test/client/coverage/*
+test/coverage/*
+pkg/*
+*.gem
+.bundle
+runner.rb
+.yardoc/*
+doc/*
+.floo
+.flooignore
+.sublime-project
+Gemfile.lock
